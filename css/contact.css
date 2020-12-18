@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Raleway:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap');
+
+.nav-box{
+    
+    background-color:  rgba(255, 255, 255, 0.5);
+    padding: 1px;
+    margin-top: 50px;
+}
+
+.icons{
+    float: right;
+}
+
+.box a{
+    text-decoration: none;
+    color: gray;
+}
+
+.box h3{
+    color: rgb(80, 129, 65);
+}
+
+.box{
+    font-family: 'Open Sans', sans-serif;
+}
+
+header nav ul li{
+    display: inline;
+    
+}
+
+body main h2{
+    text-transform: uppercase;
+}
+
+header nav ul li a{
+    font-size: 15px;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+header nav{
+    margin: 20px;;
+    padding-left: 1140px;
+}
+
+
+
+h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+h2{
+    font-family: 'Raleway', sans-serif;
+    font-size: 35px;
+    text-transform: capitalize;
+}
+
+
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}

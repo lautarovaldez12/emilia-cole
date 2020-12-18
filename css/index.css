@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;300&display=swap');
+
+
+body {
+    background-image: url('../img/emilia-home.jpg');
+    background-position: right;
+    background-size: 75%;
+    background-repeat: no-repeat;
+}
+
+
+
+.header-nav_li  {
+    font-family: Work Sans, sans-serif;
+    list-style: none;
+}
+
+.header-nav_li a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.main {
+    display: inline-block;
+    margin-left: 40px;
+}
+
+.main h2 {
+    font-family: Work Sans, sans-serif;
+    font-size: 45px;
+}
+
+.title h1 {
+    font-family: Work Sans, sans-serif;
+    font-size: 80px;
+    margin-top: 260px;
+    background-color: rgba(102, 102, 102, 0.5);
+}
+
+.header-nav_li a {
+    display: inline-block;
+    margin-top: 10px;
+    
+}
+
+.icons{
+    float: left;
+    margin-left: 40px;
+}
